@@ -1,0 +1,1 @@
+python converter.py > Rose_all.sql

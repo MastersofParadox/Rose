@@ -1,0 +1,1 @@
+python -c "from converter import *; use_db(); get_data_busRoute(); get_data_participants()" > Rose_data.sql
